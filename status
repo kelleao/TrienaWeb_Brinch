@@ -1,0 +1,25 @@
+[33mcommit c8d44c2844352471be8f60d33c43f41733164acb[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Raquel Leao <raquel179@gmail.com>
+Date:   Mon Nov 29 20:43:49 2021 -0300
+
+    Revert "nova alteracoes"
+    
+    This reverts commit 047f0186d813e49fcdeba23010ce554300376187.
+
+[33mcommit 047f0186d813e49fcdeba23010ce554300376187[m
+Author: Raquel Leao <raquel179@gmail.com>
+Date:   Mon Nov 29 19:06:57 2021 -0300
+
+    nova alteracoes
+
+[33mcommit 801e8596daf49b327ae090924f764be472360c38[m
+Author: Raquel Leao <raquel179@gmail.com>
+Date:   Mon Nov 29 18:52:48 2021 -0300
+
+    Alterando h1 para h2 no index.html
+
+[33mcommit 2df28c69ddd2dfcb0c3a862fd8085ba0ac207ee6[m
+Author: Raquel Leao <raquel179@gmail.com>
+Date:   Mon Nov 29 18:47:00 2021 -0300
+
+    Adicionando h1 a pagina html
